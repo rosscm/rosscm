@@ -4,8 +4,8 @@ I am a bioinformatics analyst based at the [Donnelly Centre](https://ccbr.utoron
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rosscm&count_private=true&show_icons=true&theme=tokyonight&hide_border=true%include_all_commits=true" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=rosscm&count_private=true&show_icons=true&theme=tokyonight&hide_border=true%include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosscm&hide_title=true&theme=tokyonight&hide_border=true" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosscm&hide_title=true&theme=tokyonight&hide_border=true" />
 </a>
