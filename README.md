@@ -20,7 +20,7 @@
 
 ## Hi, I'm Catherine :wave:
 
-I am a bioinformatics analyst based at the [Donnelly Centre](https://ccbr.utoronto.ca/donnelly-centre-cellular-and-biomolecular-research) who uses R, along with other programming Tools, to create captivating graphics and software packages. I have years of experience in genomic data analysis, computational experiment design, and package development. Check out my latest package [fedup](https://github.com/rosscm/fedup) that was recently accepted in Bioconductor :package: :star2:
+I am a bioinformatics analyst at the [Donnelly Centre](https://ccbr.utoronto.ca/donnelly-centre-cellular-and-biomolecular-research) who uses R, along with other programming tools, to create captivating graphics and software packages. I have years of experience in genomic data analysis, computational experiment design, and package development. Check out my latest package [fedup](https://github.com/rosscm/fedup) that was recently accepted in Bioconductor :package: :star2:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
