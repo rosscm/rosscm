@@ -3,7 +3,6 @@
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=FFFFFF&color=A180AD)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=FCC624&color=A180AD)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat-square&logo=r&logoColor=276DC3&color=A180AD)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=1572B6&color=A180AD)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat-square&logo=atom&logoColor=2596be&color=A180AD)
 ![](https://img.shields.io/badge/Shell-bash-informational?style=flat-square&logo=gnu-bash&logoColor=4EAA25&color=A180AD)
 ![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat-square&logo=rstudio&logoColor=75AADB&color=A180AD)
